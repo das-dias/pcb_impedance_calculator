@@ -1,0 +1,37 @@
+temperature: 27 # temperature in celsius - º
+layer_stack:
+  Sig1:
+    zo: 49.98 # characteristic impedance - Ohms
+    tw: 0.1e-3 # track width in meters - m
+    th: 0.01519e-3 # layer thickness - m
+    dt: 6.87671 # delay per meter - ns/ m
+    ind: 343.67376 # inductance per meter - nH/ m
+    cap: 137.5965 # capacitance per meter - pF/ m
+    material: cf-004 # material of the layer
+
+  Sig2:
+    zo: 49.98 # characteristic impedance - Ohms
+    tw: 0.1e-3 # track width in meters - m
+    th: 0.01519e-3 # layer thickness - m
+    dt: 6.92756 # delay per meter - ns/ m
+    ind: 346.1959 # inductance per meter - nH/ m
+    cap: 138.61683 # capacitance per meter - pF/ m
+    material: cf-004
+
+  Sig3:
+    zo: 49.98 # characteristic impedance - Ohms
+    tw: 0.1e-3 # track width in meters - m
+    th: 0.01519e-3 # layer thickness - m
+    dt: 6.92756 # delay per meter - ns/ m
+    ind: 346.1959 # inductance per meter - nH/ m
+    cap: 138.61683 # capacitance per meter - pF/ m
+    material: cf-004
+
+  Sig4:
+    zo: 49.98 # characteristic impedance - Ohms
+    tw: 0.1e-3 # track width in meters - m
+    th: 0.01519e-3 # layer thickness - m
+    dt: 6.87671 # delay per meter - ns/ m
+    ind: 343.67376 # inductance per meter - nH/ m
+    cap: 137.5965 # capacitance per meter - pF/ m
+    material: cf-004
