@@ -7,7 +7,7 @@ when designing PCB layouts with Altium.
 
 The layer stackup information, including 
 controlled impedance routing (Delay, Capacitance and 
-Inductance per milimeter) should be provided in the 
+Inductance per meter) should be provided in the 
 configuration file ```cfg```.
 
 ```yaml
